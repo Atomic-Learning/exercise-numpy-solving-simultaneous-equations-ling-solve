@@ -13,7 +13,7 @@
         "scipy",
         "linear-algebra"
     ],
-    "duration": 10,
+    "duration": 8,
     "prerequisites": [
         "numpy-solving-matrix-equations-linalg-solve",
         "maths-writing-linear-simultaneous-equations-matrix-form"
