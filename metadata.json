@@ -19,5 +19,8 @@
         "maths-writing-linear-simultaneous-equations-matrix-form"
     ],
     "related": [
+    ],
+    "python-packages": [
+        "numpy"
     ]
 }
