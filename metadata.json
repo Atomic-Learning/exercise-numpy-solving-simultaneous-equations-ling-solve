@@ -1,22 +1,23 @@
 {
-    "title": "",
-    "slug": "",
-    "description": "",
+    "title": "Exercise: Solving Simultaneous Equations using numpy.linalg.solve()",
+    "slug": "exercise-numpy-solving-simultaneous-equations-ling-solve",
+    "description": "Construct matrix equations for two systems of simultaneous linear equations and use NumPy or SciPy documentation to solve for their unknowns.",
     "authors": [
-        "",
-        ""
+        "chris-cooling",
+        "giorgia-del-missier"
     ],
     "tags": [
-        "",
-        ""
+        "exercise",
+        "python",
+        "numpy",
+        "scipy",
+        "linear-algebra"
     ],
-    "duration": 0,
+    "duration": 10,
     "prerequisites": [
-        "",
-        ""
+        "numpy-solving-matrix-equations-linalg-solve",
+        "maths-writing-linear-simultaneous-equations-matrix-form"
     ],
     "related": [
-        "",
-        ""
     ]
 }
