@@ -20,7 +20,7 @@
     ],
     "related": [
     ],
-    "python-packages": [
+    "python_packages": [
         "numpy"
     ]
 }
