@@ -22,6 +22,7 @@ Click below to reveal hints:
 
 > [!HIDDEN]
 > - Try writing the system of equations in matrix form by hand before starting to code.
+> -You want to form an equation of the form $Ax = b$, where $A$ is the matrix of coefficients, $x$ is the vector of unknowns, and $b$ is the vector of constants.
 > - In the third equation, $x$ is not present - this is the same as having a zero in the corresponding position in the matrix.
 > - Construct a two-dimensional NumPy array for the coefficients and a one-dimensional NumPy array for the constants.
 > - Use `numpy.linalg.solve()` to find the solution for the unknowns.
