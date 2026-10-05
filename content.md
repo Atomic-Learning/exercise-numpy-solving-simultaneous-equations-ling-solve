@@ -2,9 +2,9 @@ Construct the matrix equation for
 
 $$
 \begin{aligned}
-&x + &3y - &z&=0\\
-&4x + 2&y + &3z&=10\\
-&&-5y + &z&=4.
+x + 3y - z&=0\\
+4x + 2y + 3z&=10\\
+-5y + z&=4.
 \end{aligned}
 $$
 
