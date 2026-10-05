@@ -53,5 +53,5 @@ Click below to reveal the sample solution
 > b = np.array([0, 10, 4])
 >
 > solution = np.linalg.solve(A, b)
-> solution
+> print(f"x={solution[0]}, y={solution[1]}, z={solution[2]}")
 > ```
