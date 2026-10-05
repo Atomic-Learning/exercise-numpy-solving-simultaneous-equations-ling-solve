@@ -16,6 +16,16 @@ Use NumPy to represent the matrix and the vector of this matrix equation and use
 
 Check your result in the original equations. The solution is approximately $x=2.56$, $y=-0.72$, and $z=0.4$.
 
+# Hints
+
+Click below to reveal hints:
+
+> [!HIDDEN]
+> - Try writing the system of equations in matrix form by hand before starting to code
+> - In the third equation, $x$ is not present - this is the same as having a zero in the corresponding position in the matrix.
+> - Construct a two-dimensional NumPy array for the coefficients and a one-dimensional NumPy array for the constants.
+> - Use `numpy.linalg.solve()` to find the solution for the unknowns.
+
 # Sample Solution
 
 Click below to reveal the sample solution
